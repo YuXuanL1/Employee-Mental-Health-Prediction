@@ -1,4 +1,4 @@
-# 🧠 Predicting Mental Health in Tech Workers
+# Predicting Mental Health in Tech Workers
 
 This project explores whether we can predict an individual's current mental health condition using workplace and demographic features. We apply various machine learning techniques to the [OSMI Mental Health in Tech Survey 2016](https://osmihelp.org/research) dataset and analyze feature importance and model performance.
 
