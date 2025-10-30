@@ -100,3 +100,8 @@ Used `GridSearchCV` to optimize hyperparameters for XGBoost RF.
 
 - Overall, the model heavily relies on self-awareness, personal history, and family background to assess mental health risk.
 - In the future, we hope to explore modifiable and intervention-oriented factors, such as company culture, organizational policies, and peer support.
+
+
+---
+poster:[employee mental health.pdf](https://github.com/user-attachments/files/23240190/default.pdf)
+
